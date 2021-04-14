@@ -1,9 +1,3 @@
-/*
-Name: Jaden Lee
-Date: June 6, 2011
-Project: Tic Tac Toe.cpp
-Purpose: Tic tac toe Game
-*/
 
 #include <iostream>
 
